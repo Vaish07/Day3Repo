@@ -7,6 +7,7 @@ public class ProductApp {
 	public void productDisplay(){
 		for (int i = 0; i < a.length; i++) {
 			System.out.println("Data:"+i);
+			System.out.println("Loop modified");
 		}
 	}
 }

@@ -11,5 +11,7 @@ public class MainClass {
 	public static void greetingsMain(){
 		System.out.println("Vaishnavi  Mini");
 		System.out.println("Vaishnavi  Mini");
+		
+		System.out.println("NEw changes");
 	}
 }

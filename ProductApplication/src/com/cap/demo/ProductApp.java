@@ -9,6 +9,10 @@ public class ProductApp {
 		System.out.println("productDisplay - ProductApp");
 
 		System.out.println("Hi");
+		
+		
+
+		System.out.println("Product Test");
 	}
 	
 	public static void greetings(){

@@ -1,13 +1,12 @@
 package com.cap.demo;
 
 public class ProductApp {
+	
+	int[] a = {1,2,3,4};
 
 	public void productDisplay(){
-		System.out.println("productDisplay - ProductApp");
-	}
-	
-	public static void greetings(){
-		System.out.println("Happy to see all the products");
-		System.out.println("Displaying all the products");
+		for (int i = 0; i < a.length; i++) {
+			System.out.println("Data:"+i);
+		}
 	}
 }

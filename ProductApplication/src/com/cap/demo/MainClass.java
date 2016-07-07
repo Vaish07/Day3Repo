@@ -9,7 +9,7 @@ public class MainClass {
  
 	
 	public static void greetingsMain(){
-		System.out.println("ABHILASH MUND THE JIRA GURU");
-		System.out.println("ABHILASH MUND THE JIRA GURU 2");
+		System.out.println("Vaishnavi  Mini");
+		System.out.println("Vaishnavi  Mini");
 	}
 }

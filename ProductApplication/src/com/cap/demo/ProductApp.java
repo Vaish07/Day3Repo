@@ -9,5 +9,6 @@ public class ProductApp {
 	public static void greetings(){
 		System.out.println("Happy to see all the products");
 		System.out.println("Displaying all the products");
+		System.out.println("Display Added");
 	}
 }

@@ -6,4 +6,9 @@ public class MainClass {
 	ProductApp productApp = new ProductApp();
 	productApp.productDisplay();
  }
+ 
+	
+	public static void greetingsMain(){
+		System.out.println("Displaying all the products");
+	}
 }

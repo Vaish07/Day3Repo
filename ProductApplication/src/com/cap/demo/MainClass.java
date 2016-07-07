@@ -10,5 +10,6 @@ public class MainClass {
 	
 	public static void greetingsMain(){
 		System.out.println("Displaying all the products");
+		System.out.println("Test1 added");
 	}
 }

@@ -7,6 +7,8 @@ public class ProductApp {
 	public void productDisplay(){
 
 		System.out.println("productDisplay - ProductApp");
+
+		System.out.println("Hi");
 	}
 	
 	public static void greetings(){
